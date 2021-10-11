@@ -1,4 +1,4 @@
-## example of Server-Sent Events 
+## Server-Sent Events 
 
 The server sends events to the client in a unidirectional manner.
 
